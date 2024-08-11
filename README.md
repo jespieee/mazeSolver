@@ -4,6 +4,9 @@
 
 mazeSolver is a Python-based project that implements Depth-First-Search to solve mazes programmatically. The project is designed to take an input maze, represent it as a grid, find the shortest path from the start to the finish, and use vizualization tools to see the algorithm in action!
 
+![image](https://github.com/user-attachments/assets/8207417e-2ab6-4a8d-8214-28db23903787)
+
+
 ## Installation
 
 1. Clone the repository:
